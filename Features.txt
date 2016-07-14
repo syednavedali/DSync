@@ -1,0 +1,8 @@
+Feature List
+
+1 - Sync Bookmarks
+2 - Send Text data to other browsers and devices
+3 - Send important URLs & Text to friends
+4 - Send images or text files across devices and to friends
+5 - TODO lists and remainders
+6 - IFTTT type of feature
